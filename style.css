@@ -1,0 +1,19 @@
+div
+{
+width: 150px;
+height: 150px;
+background-color: bisque;
+position: absolute;
+left:80%;
+top:calc(calc(100%-150px)/3);
+}
+p
+{
+    font-size:80px;
+    position: absolute;
+    left: calc(calc(100px -100% )/2);
+    top:calc(calc(30px - 100% )/2);
+    
+
+
+}
